@@ -1,0 +1,7 @@
+Ngạc nhiên  1 suprise 
+Sợ hãi	    2 fear
+Ghê tởm	    3 disgust
+Hạnh phúc   4 happy
+Buồn        5 sad
+Giận dữ     6 angry
+Trung lập   7 neutral
