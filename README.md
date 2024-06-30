@@ -31,7 +31,7 @@ Traing EAC on RAF-DB clean train set (ResNet-50 backbone) should achieve over 90
 
 ## Set up Enviroment for UI
 
-You need to install library in files "ui.py", "model.py" and "model2.py" by command examples:
+You need to install libraries in files "ui.py", "model.py" and "model2.py" by command examples:
 ```
 pip install torch
 ```
