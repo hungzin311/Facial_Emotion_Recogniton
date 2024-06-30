@@ -11,9 +11,9 @@ from PyQt6.QtCore import Qt
 import cv2
 
 #Choose the model to use (resnet50 with higher accuracy but delay more time) (recommend to use mobilenet_v2 in real time problem)
-model_path = 'model\\mobilenet_v2_final.pth'
-
 #The model_path and model needed to be appropriate (Resnet50 with 'resnet50_final.pth' and MobileNetV2 with 'mobilenet_v2_final.pth')
+model_path = 'UI demo\\model\\mobilenet_v2_final.pth'
+
 #You need to choose the model_path appropriate with your chosen model
 model = MobileNet()
 
