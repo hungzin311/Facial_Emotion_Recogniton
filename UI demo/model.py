@@ -5,7 +5,7 @@ import torch.nn as nn
 from torch.autograd import Variable
 
 #The relative file location to load pretrained_weight file
-pretrained_model = 'model\\resnet50_ft_weight.pkl'
+pretrained_model = 'UI model\\model\\resnet50_ft_weight.pkl'
 
 def conv3x3(in_planes, out_planes, stride=1):
     """3x3 convolution with padding"""
