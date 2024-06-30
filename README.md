@@ -42,10 +42,11 @@ Download the final pretrained weight [ResNet50_final_weight](https://drive.googl
 
 ```key
 - /UI demo 
-	  model/
-        resnet50_ft_weight.pkl (the file you have downloaded)
-        mobilenet_v2_final.pth
-        resnet50_final.pth
+      model/
+          resnet50_ft_weight.pkl (the file you have downloaded)
+          resnet50_final.pth     (the file you have downloaded)
+          mobilenet_v2_final.pth
+        
 ```
 
 ## Contributors
