@@ -2,8 +2,8 @@
 ## AI Project Group 12
 This repository is dedicated to the project on Facial Emotion Recognition using the cut of edge technique EAC with two main backbones: ResNet50 and MobileNet_V2. The primary goal of this project is to recognize emotion through live video and compare the accuracy and efficiency of this approach with existing state-of-the-art methods.
 
-## Demo Video
-Please follow this link to see the demo video [demo]()
+## Video AI Project
+You can download the files .mp4 to watch or you can access through this [link](https://drive.google.com/drive/folders/1TXgji0IRz4T2ZutvCVo0HIo58q_lmufu?usp=sharing) on Google Drive 
 
 ## Approach
 **Erasing Attention Consistency (EAC)** explore dealing with noisy labels from a new feature-learning perspective. FER models remember noisy samples by focusing on a part of the features that can be considered related to the noisy labels instead of learning from the whole features that lead to the latent truth. We use this method to suppress the noisy samples during the training process automatically. EAC significantly outperforms state-of-the-art noisy label FER methods and generalizes well to other tasks.
