@@ -31,6 +31,11 @@ Traing EAC on RAF-DB clean train set (ResNet-50 backbone) should achieve over 90
 
 ## Set up Enviroment for UI
 
+You need to install library in files "ui.py", "model.py" and "model2.py" by command examples:
+```
+pip install torch
+```
+
 Download the pretrained [ResNet-50 model](https://drive.google.com/file/d/1yQRdhSnlocOsZA4uT_8VO0-ZeLXF4gKd/view?usp=sharing) and then put it under the model directory. 
 
 Download the final pretrained weight [ResNet50_final_weight](https://drive.google.com/file/d/1bvcidRXkAxxEYXmcaD8LUQues81cEzIy/view?usp=sharing) then put it under the model directory 
