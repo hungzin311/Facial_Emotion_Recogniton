@@ -1,9 +1,7 @@
 # Facial Emotion Recognition Using EAC
-## AI Project Group 12
-This repository is dedicated to the project on Facial Emotion Recognition using the cut of edge technique EAC with two main backbones: ResNet50 and MobileNet_V2. The primary goal of this project is to recognize emotion through live video and compare the accuracy and efficiency of this approach with existing state-of-the-art methods.
+## Objective
+This repository is dedicated to a Facial Emotion Recognition project that leverages the cutting-edge EAC technique, utilizing two primary backbones: ResNet50 and MobileNet_V2. The core objective of this project is to achieve emotion recognition through live video with exceptional accuracy—exceeding 90%. This approach not only demonstrates superior precision but also outperforms existing state-of-the-art methods, showcasing a significant advancement over conventional models.
 
-## Video AI Project
-You can download the files .mp4 to watch or you can access through this [link](https://drive.google.com/drive/folders/1TXgji0IRz4T2ZutvCVo0HIo58q_lmufu?usp=sharing) on Google Drive 
 
 ## Approach
 **Erasing Attention Consistency (EAC)** explore dealing with noisy labels from a new feature-learning perspective. FER models remember noisy samples by focusing on a part of the features that can be considered related to the noisy labels instead of learning from the whole features that lead to the latent truth. We use this method to suppress the noisy samples during the training process automatically. EAC significantly outperforms state-of-the-art noisy label FER methods and generalizes well to other tasks.
@@ -49,18 +47,10 @@ Download the final pretrained weight [ResNet50_final_weight](https://drive.googl
         
 ```
 
-## Contributors
-- **Team members**:
-  - Hoàng Quốc Hưng
-  - Hoàng Khải Mạnh 
-  - Vũ Hải Đăng
-  - Nguyễn Minh Khôi
-  - Lê Đại Lâm 
 
 ## Project Structure
 ```
 ├── ...
-├── Report and Slide       # Report and Presentation
 ├── Training
 │  ├── ...                 # You can access the Kaggle link above  
 ├── UI demo
@@ -70,7 +60,6 @@ Download the final pretrained weight [ResNet50_final_weight](https://drive.googl
 │  ├── model2.py           # Build Model with MobileNet_V2 as backbone
 │  ├── ui.py               # UI 
 |  ├── ...
-├── Video                  # Guideline Video and Demo Video
 └── ...
 
 ```
