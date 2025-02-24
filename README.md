@@ -1,6 +1,6 @@
-# Facial Emotion Recognition Using EAC
+# Facial Emotion Recognition Using Erasing Attention Consistency 
 ## Objective
-This repository is dedicated to a Facial Emotion Recognition project that leverages the cutting-edge EAC technique, utilizing two primary backbones: ResNet50 and MobileNet_V2. The core objective of this project is to achieve emotion recognition through live video with exceptional accuracy—exceeding 90%. This approach not only demonstrates superior precision but also outperforms existing state-of-the-art methods, showcasing a significant advancement over conventional models.
+This repository is dedicated to a Facial Emotion Recognition project that leverages the cutting-edge EAC technique, utilizing two primary backbones: ResNet50 and MobileNet_V2. The core objective of this project is to achieve emotion recognition through live video with exceptional accuracy—exceeding **90%**. This approach not only demonstrates superior precision but also outperforms existing state-of-the-art methods, showcasing a significant advancement over conventional models.
 
 
 ## Approach
